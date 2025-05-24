@@ -1,5 +1,5 @@
-# Classificationmodels
-# Breast Cancer Prediction - Exploratory Data Analysis & Model Comparison
+# Classification models
+# Breast Cancer Classification - Exploratory Data Analysis & Model Comparison
 
 ## 📌 Overview
 This repository contains an extensive **Exploratory Data Analysis (EDA)** and model performance comparison on a **Breast Cancer Classification dataset**. We analyze the dataset, visualize patterns, and evaluate multiple machine learning models to determine the best-performing classifier.
